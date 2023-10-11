@@ -43,7 +43,7 @@
   .search-form {
     background-color: rgb(31, 53, 39);
     height: 80px;
-    width: 100vw;
+    width: 1600px;
     display: flex;
     flex-direction: row;
     justify-content: center;
